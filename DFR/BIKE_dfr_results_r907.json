@@ -1,0 +1,1 @@
+{"bits": 20, "r": 907, "d": 15, "t": 18, "iterations": 7, "weak_key_threshold": 3, "keys": 40000000, "dfr": [0, 0, 40000000], "decoding_failures": [], "syndrome_matches": [], "bad_vectors": [], "runtime": 857429.4534697533}
