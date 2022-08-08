@@ -1,4 +1,4 @@
-# Raw data for the paper "A Study of Error Floor Behavior in QC-MDPC Codes"
+# Decoder and data used in the paper "A Study of Error Floor Behavior in QC-MDPC Codes"
 
 This repository contains raw data for our analysis of error floor behavior of QC-MDPC codes at the 20-bit security level. The files are organized as follows:
 
